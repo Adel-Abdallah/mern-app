@@ -1,0 +1,22 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "mern app for expenses tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adel-Abdallah/mern-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adel-Abdallah/mern-app/issues"
+  },
+  "homepage": "https://github.com/Adel-Abdallah/mern-app#readme"
+}
